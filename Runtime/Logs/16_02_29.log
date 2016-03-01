@@ -1,0 +1,255 @@
+[ 2016-02-29T13:35:05+08:00 ] 127.0.0.1 /onethink/install.php?s=/Install/step2.html
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2016-02-29T16:38:24+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T16:38:27+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T16:43:40+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T16:43:42+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T16:43:53+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T16:44:13+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T16:45:53+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:38:41+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:40:06+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:40:08+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:40:10+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:40:12+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:43:31+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:43:52+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:45:53+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:45:54+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:45:55+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:47:08+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:47:09+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:47:09+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:47:09+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:47:09+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:47:09+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:50:16+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:52:00+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:52:01+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:52:01+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:52:01+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:52:01+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:52:02+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:54:13+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:54:14+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:54:14+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:54:14+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:54:14+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T17:54:14+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:03:55+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:04:14+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:24+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:25+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:25+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:25+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:25+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:25+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:25+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:26+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:45+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:46+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:46+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:47+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:47+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:07:57+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` >= 0 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:11:06+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` = 1 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:11:07+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` = 1 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:11:07+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` = 1 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:11:07+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` = 1 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:11:07+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` = 1 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:11:07+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT `id`,`name`,`update_time`,`status` FROM `onethink_member_role` WHERE ( `status` = 1 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:11:21+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `onethink_member_role` WHERE ( `status` = 1 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:11:21+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `onethink_member_role` WHERE ( `status` = 1 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:11:21+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `onethink_member_role` WHERE ( `status` = 1 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:11:21+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `onethink_member_role` WHERE ( `status` = 1 ) ORDER BY id desc LIMIT 0,10  
+
+[ 2016-02-29T18:11:21+08:00 ] 127.0.0.1 /onethink/index.php?s=/admin/user_role/index.html
+ERR: 1054:Unknown column 'id' in 'order clause'
+ [ SQL语句 ] : SELECT * FROM `onethink_member_role` WHERE ( `status` = 1 ) ORDER BY id desc LIMIT 0,10  
+
